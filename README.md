@@ -59,7 +59,7 @@ baten_agent/ ├── engine/ │ ├── flvh/ ← Proprietary logic (privat
 
 1. **Clone this repository** (private/local only):
    ```bash
-   git clone https://github.com/youraccount/baten_agent.git
+   git clone https://github.com/hounaine/baten_agent.git
    cd baten_agent
 
 Install dependencies:
@@ -129,9 +129,9 @@ Extended Documentation: If a collaborator joins under NDA, we can share more det
 Advanced Integrations: Additional scripts or corpora to demonstrate domain expansions.
 
 Contact
-Website: YourCompanyWebsite
+Website: batencore.com
 
-Email: contact@your-company-website.com
+Email: lab@batencore.com
 
 For inquiries about licensing or to request the full engine, please reach out via email.
 
