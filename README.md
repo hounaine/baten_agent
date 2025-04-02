@@ -92,11 +92,9 @@ A minimal script, chat_interface.py, can be found in interface/. It shows how th
 ## Prototypes
 Folder for experimental or demonstration scripts:
 
-generate_corpus_dataset.py: Possibly merges or filters text data into a training set.
-
-guided_generation_prototype.py: Demonstrates how generation might run with partial environment context.
-
-hybrid_generation_prototype.py: Combines multiple approaches (embedding selection + rewriting).
+**generate_corpus_dataset.py**: Possibly merges or filters text data into a training set.
+**guided_generation_prototype.py**: Demonstrates how generation might run with partial environment context.
+**hybrid_generation_prototype.py**: Combines multiple approaches (embedding selection + rewriting).
 
 They serve as examples or internal tests to guide further development.
 
@@ -109,20 +107,16 @@ pytest tests/
 Some tests may fail if the private engine methods are absent.
 
 ## Usage Guidelines
-Add or modify corpora in corpus-company/ or agents/AI01_internal_analysis/corpus/.
-
-Run generate_text_AI01.py or evaluate_agent_AI01.py as examples of agent logic.
-
-Integrate the stubs with the real private engine for full functionality.
+**Add or modify corpora** in corpus-company/ or agents/AI01_internal_analysis/corpus/.
+**Run** generate_text_AI01.py or evaluate_agent_AI01.py as examples of agent logic.
+**Integrate** the stubs with the real private engine for full functionality.
 
 ## Note: This repository alone won’t yield the advanced pattern extraction results because the crucial FLVH-BA/CIP code is omitted.
 
 ## Future Plans
-Stronger Collaboration: Potential GUI for agent interactions.
-
-Extended Documentation: If a collaborator joins under NDA, we can share more details about the FLVH-BA/CIP architecture.
-
-Advanced Integrations: Additional scripts or corpora to demonstrate domain expansions.
+**Stronger Collaboration**: Potential GUI for agent interactions.
+**Extended Documentation**: If a collaborator joins under NDA, we can share more details about the FLVH-BA/CIP architecture.
+**Advanced Integrations**: Additional scripts or corpora to demonstrate domain expansions.
 
 ## Contact
 Website: batencore.com
@@ -139,5 +133,3 @@ This repository is primarily for structural demonstration. The actual engine log
 2. **Explicit disclaimers** that the proprietary engine is absent or minimal, thus limiting real functionality.
 3. **Professional tone** to show that you have a robust structure, but are selectively withholding the FLVH code. 
 4. **Clear usage instructions** (clone, install, mention partial/stub usage).
-
-
