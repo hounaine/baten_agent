@@ -93,7 +93,9 @@ A minimal script, chat_interface.py, can be found in interface/. It shows how th
 Folder for experimental or demonstration scripts:
 
 **generate_corpus_dataset.py**: Possibly merges or filters text data into a training set.
+
 **guided_generation_prototype.py**: Demonstrates how generation might run with partial environment context.
+
 **hybrid_generation_prototype.py**: Combines multiple approaches (embedding selection + rewriting).
 
 They serve as examples or internal tests to guide further development.
