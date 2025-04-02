@@ -113,7 +113,7 @@ Some tests may fail if the private engine methods are absent.
 **Run** generate_text_AI01.py or evaluate_agent_AI01.py as examples of agent logic.
 **Integrate** the stubs with the real private engine for full functionality.
 
-## Note: This repository alone won’t yield the advanced pattern extraction results because the crucial FLVH-BA/CIP code is omitted.
+**Note: This repository alone won’t yield the advanced pattern extraction results because the crucial FLVH-BA/CIP code is omitted.**
 
 ## Future Plans
 **Stronger Collaboration**: Potential GUI for agent interactions.
@@ -124,7 +124,7 @@ Some tests may fail if the private engine methods are absent.
 Website: batencore.com
 Email: lab@batencore.com
 
-## For inquiries about licensing or to request the full engine, please reach out via email.
+**For inquiries about licensing or to request the full engine, please reach out via email.**
 
 ## Disclaimer
 This repository is primarily for structural demonstration. The actual engine logic is kept private to safeguard proprietary technology.
